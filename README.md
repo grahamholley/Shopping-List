@@ -37,9 +37,9 @@ The first line of each store is the store's name, the next line is the store's l
 
 After reading in the store information, the program outputs a summary with two sections: store related information and item related information.
 
-After reading in the lsit of desired items the porgram then determines the best deal possible based on what's available in the inventory. For each item, I want to get the best deal possible, even if that means going to different stores.
+After reading in the list of desired items the program then determines the best deal possible based on what's available in the inventory. For each item, the program gets the best deal possible, even if that means going to different stores.
 
-For example, if I want to buy 15 of one item, I would need to go to the store with the cheapest option for that item and buy from them. If they don't have enough to satisfy the amount specified from the list, then go to the next cheapest place and buy from them and continue the process until satisfied. The porgram also determines the cumulative cost throughout the process.
+For example, if I want to buy x amount of one item, I would need to go to the store with the cheapest option for that item and buy from them. If they don't have enough to satisfy the amount specified from the list, then go to the next cheapest place and buy from them and continue the process until satisfied. The porgram also determines the cumulative cost throughout the process.
 
 Example Input:
 
